@@ -18,9 +18,9 @@ Este projeto é uma calculadora de Índice de Massa Corporal (IMC) desenvolvida 
 
 ## Tecnologias Utilizadas
 
-- [Nome da linguagem de programação]  
-- [Framework ou bibliotecas se aplicável]  
-- [Outras ferramentas relevantes]
+- ReactJS 
+- TypeScript
+- Vite
 
 ## Instalação
 
@@ -47,7 +47,7 @@ $ npm install
 
 ```bash
 # Exemplo para Node.js
-$ npm start
+$ npm run dev
 ```
 
 ## Como Usar
@@ -61,9 +61,7 @@ $ npm start
 
 O IMC é calculado usando a seguinte fórmula:
 
-```text
 IMC = peso / (altura * altura)
-```
 
 ## Classificação do IMC
 
