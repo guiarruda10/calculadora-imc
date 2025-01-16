@@ -79,4 +79,4 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ---
 
-Desenvolvido por [Guilherme Maglhães de Arruda].
+Desenvolvido por Guilherme Maglhães de Arruda.
