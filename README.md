@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto é uma calculadora de Índice de Massa Corporal (IMC) desenvolvida em [linguagem/programação específica]. A aplicação calcula o IMC de uma pessoa com base no peso e altura fornecidos e retorna a classificação do IMC de acordo com os critérios da Organização Mundial da Saúde (OMS):
+Este projeto é uma calculadora de Índice de Massa Corporal (IMC) desenvolvida em ReactJS. A aplicação calcula o IMC de uma pessoa com base no peso e altura fornecidos e retorna a classificação do IMC de acordo com os critérios da Organização Mundial da Saúde (OMS):
 
 - **Magreza**
 - **Normal**
