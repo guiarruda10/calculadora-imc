@@ -27,7 +27,7 @@ Este projeto é uma calculadora de Índice de Massa Corporal (IMC) desenvolvida 
 1. Clone este repositório:
 
 ```bash
-$ git clone 
+$ git clone https://github.com/guiarruda10/calculadora-imc
 ```
 
 2. Navegue até o diretório do projeto:
